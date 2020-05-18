@@ -4,37 +4,37 @@
                 "name": "Perreando y estudiando",
                 "description": "Playlist para perrear mientras estudias",
                 "songsNumber": 28,
-                "urlImage": ""
+                "urlImage": "https://github.com/RafaelAndrade17/SPOTIFEI-MOBILE/blob/master/album1.jpg"
         },
         {
                 "name": "To pass the final project",
                 "description": "Playlist para pasar el semestre",
                 "songsNumber": 30,
-                "urlImage": ""
+                "urlImage": "https://github.com/RafaelAndrade17/SPOTIFEI-MOBILE/blob/master/album2.jpg"
         },
         {
                 "name": "Para limpiar",
                 "description": "Playlist para limpiar un sabado temprano",
                 "songsNumber": 25,
-                "urlImage": ""
+                "urlImage": "https://github.com/RafaelAndrade17/SPOTIFEI-MOBILE/blob/master/album3.jpg"
         },
         {
                 "name": "Para ejercitarse",
                 "description": "Playlist para ejercitarse durante la cuarentena",
                 "songsNumber": 32,
-                "urlImage": ""
+                "urlImage": "https://github.com/RafaelAndrade17/SPOTIFEI-MOBILE/blob/master/album4.png"
         },
         {
                 "name": "Para concentrarse",
                 "description": "Playlist para concentrarse durante el estudio",
                 "songsNumber": 29,
-                "urlImage": ""
+                "urlImage": "https://github.com/RafaelAndrade17/SPOTIFEI-MOBILE/blob/master/colores.jpg"
         },
         {
                 "name": "Para dormir",
                 "description": "Playlist para dormir sin tener pesadillas",
                 "songsNumber": 11,
-                "urlImage": ""  
+                "urlImage": "https://github.com/RafaelAndrade17/SPOTIFEI-MOBILE/blob/master/yhlqmdlg.jpg"  
         }
                 
     ]
